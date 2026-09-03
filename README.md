@@ -58,7 +58,3 @@ You can verify a service's configuration is being served correctly by visiting:
 ```
 http://localhost:9000/{service-name}/default
 ```
-
-## Need Help?
-
-If you encounter any issues, feel free to reach out and start a discussion via the Slack workspace.
